@@ -1,8 +1,10 @@
 ---
 layout: default
-title: DMC Image Converter
-description: Convert images to cross stitch patterns
+title: Another page
+description: This is just another page
 ---
+
+## DMC Image Converter
 
 ---
 ### Latest Release [Version 0.02 (.exe)](https://github.com/Ryan-02/DMC-Image-Converter/releases/download/v0.02/DMCConverter.exe)
