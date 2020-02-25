@@ -2,4 +2,4 @@
 
 | Name | Version | Info |
 | ---- | ------- | ---- |
-| DMC Image Converter | 0.02 | [Link](./DMC-Converter.html) |
+| DMC Image Converter | 0.03 | [Link](./DMC-Converter.html) |
