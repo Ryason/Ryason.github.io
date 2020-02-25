@@ -1,6 +1,6 @@
 ---
-title: DMC Image Converter
-description: Convert images to cross stitch patterns
+title: [DMC Image Converter]
+description: [Convert images to cross stitch patterns]
 ---
 
 ---
