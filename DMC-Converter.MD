@@ -1,6 +1,7 @@
 ---
-title: [DMC Image Converter]
-description: [Convert images to cross stitch patterns]
+layout: default
+title: DMC Image Converter
+description: Convert images to cross stitch patterns
 ---
 
 ---
