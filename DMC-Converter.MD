@@ -29,7 +29,7 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Display grid showing DMC values, representing the converted pixels of the loaded image.
 - Double click a grid cell to mark it as stitched.
 - Double click a marked cell to unmark it, if if was marked by mistake.
-- Select between different colour matching algorithms. Each gives a slightly different result. You may want to play around with what the each version produces.
+- Select between different colour matching algorithms. [CIE2000](https://en.wikipedia.org/wiki/Color_difference#CIELAB_%CE%94E*) is the closest mathematically. However, you may want to play around with each version, as they give slightly different results.
 
 ---
 ### Features I Would Like To Add
