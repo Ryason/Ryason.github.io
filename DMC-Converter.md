@@ -23,9 +23,7 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 
 > Pressing the convert button will start the image conversion, and will result in the pattern being displayed on a large grid.
 
-> You can click on any grid cell to make the cell white, temporarily, if the DMC value in the cell is hard to read.
-
-> Once you have completed a stitch, double click on the cell to mark it red.
+> You can mark a grid cell red (complete) by right clicking on it
 
 ### Current Features
 - Load an image and have it converted into a pattern for cross stitching with DMC floss.
