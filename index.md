@@ -4,11 +4,11 @@ title: Home
 description: Information Page
 ---
 
-### My Projects
+# My Projects
 
 ---
 
-Programming Projects
+### Programming Projects
 
 | Name | Version | Info | 
 | ---- | ------- | ---- |
@@ -16,7 +16,7 @@ Programming Projects
 
 ---
 
-Other
+### Other
 
 | Name | Info | 
 | ---- | ---- |
