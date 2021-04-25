@@ -4,27 +4,30 @@ title: DMC Image Converter
 description: Information Page
 ---
 [Home](./)
-
-## DMC Image Converter
-
 ---
-### Latest Release [Version 0.05 (.exe)](https://github.com/Ryason/DMC-Image-Converter/releases/tag/v0.05)
+
+### DMC Image Converter
+## Latest Release [Version 0.05 (.exe)](https://github.com/Ryason/DMC-Image-Converter/releases/tag/v0.05)
 ---
-### About
+## About
+
 DMC Image Converter is a tool used to create cross stitch patterns from images.
 
 ### How To Use
-> Load an image into the application by clicking the Load Image button.
 
-> Controll the size of your cross stich pattern by setting the width, with the width controll box.
+Load an image into the application by clicking the Load Image button.
 
-> Select from the list of DMC values, which floss' you would like to use with your pattern.
+Controll the size of your cross stich pattern by setting the width, with the width controll box.
 
-> Or, select how many different threads you would like to used, and the program will find the best suitable DMC colours.
+Select from the list of DMC values, which floss' you would like to use with your pattern.
 
-> Pressing the convert button will start the image conversion, and will result in the pattern being displayed on a large grid.
+Or, select how many different threads you would like to used, and the program will find the best suitable DMC colours.
 
-> You can mark a grid cell red (complete) by right clicking on it
+Pressing the convert button will start the image conversion, and will result in the pattern being displayed on a large grid.
+
+You can mark a grid cell red (complete) by right clicking on it
+
+---
 
 ### Current Features
 - Load an image and have it converted into a pattern for cross stitching with DMC floss.
