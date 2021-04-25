@@ -48,4 +48,4 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Update button that links to this project's repo, so users can get the latest version. (Could store version number in code and check against current release version number. Then alert if users exe is not the latest)
 - Option to paint your own pattern using a pallet selector and drawing(clicking) directly on the grid.
 
-## [back](./)
+## [Back](./)
