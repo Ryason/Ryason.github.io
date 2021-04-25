@@ -10,7 +10,7 @@ description: Information Page
 
 Programming Projects
 
-| Name | Version | Info |
+| Name | Version | Info | 
 | ---- | ------- | ---- |
 | DMC Image Converter | 0.04 | [Link](./DMC-Converter.md) |
 
@@ -18,7 +18,7 @@ Programming Projects
 
 Other
 
-| Name | Info |
+| Name | Info | 
 | ---- | ---- |
 | 3D Models | [Link](./Blender.md) |
 
