@@ -3,16 +3,16 @@ layout: default
 title: DMC Image Converter
 description: Information Page
 ---
-[Home](./)
+## [Home](./)
 ---
 
-### DMC Image Converter
+# DMC Image Converter
 
-# Latest Release [Version 0.05 (.exe)](https://github.com/Ryason/DMC-Image-Converter/releases/tag/v0.05)
+A tool used to create cross stitch patterns from images.
+
+Latest Release [Version 0.05 (.exe)](https://github.com/Ryason/DMC-Image-Converter/releases/tag/v0.05)
+
 ---
-## About
-
-DMC Image Converter is a tool used to create cross stitch patterns from images.
 
 ### How To Use
 
@@ -53,4 +53,4 @@ You can mark a grid cell red (complete) by right clicking on it
 - Update button that links to this project's repo, so users can get the latest version. (Could store version number in code and check against current release version number. Then alert if users exe is not the latest)
 - Option to paint your own pattern using a pallet selector and drawing(clicking) directly on the grid.
 
-#[Home](./)
+## [Home](./)
