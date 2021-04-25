@@ -3,7 +3,7 @@ layout: default
 title: Blender
 description: Information Page
 ---
-[Home](./)
+## [Home](./)
 
 ---
 ## 3D Models
