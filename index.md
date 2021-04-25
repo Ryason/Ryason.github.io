@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+description: Information Page
+---
+
 ### My Projects
 
 ---
