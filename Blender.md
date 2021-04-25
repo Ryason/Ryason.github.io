@@ -6,7 +6,7 @@ description: Information Page
 ## [Home](./)
 
 ---
-## 3D Models
+# 3D Models
 ---
 
 The following images are renders of models I have created using blender. 
