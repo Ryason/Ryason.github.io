@@ -30,6 +30,8 @@ Tool that allows twitch chat to vote on questions
 - If the poll needs to be cancelled early, click the "STOP" button.
 - If you decide you want to post results to chat, you can press the "Post Results" button at any time.
 - The bot will post a message in chat once the allowed voting time has passed, if auto post results is enabled
+
+
 ---
 ## [Home](./)
 ---
