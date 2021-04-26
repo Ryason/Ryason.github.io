@@ -4,11 +4,9 @@ title: Home
 description: Information Page
 ---
 ### [Repos](https://github.com/Ryason?tab=repositories)
-# My Projects
-
 ---
 
-### Programming Projects
+## Programming Projects
 
 | Name | Version | Info | 
 | ---- | ------- | ---- |
@@ -16,7 +14,7 @@ description: Information Page
 
 ---
 
-### Other
+## Other
 
 | Name | Info | 
 | ---- | ---- |
