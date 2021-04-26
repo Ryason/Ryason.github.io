@@ -32,3 +32,8 @@ I like to practice creating models by modelling real world products. Usually fro
 <img src="./Images/adde-chair-black.png" width="400" alt="Adde chair blacks">
 
 ---
+## [Paerlband tealight holder](https://www.ikea.com/gb/en/p/paerlband-tealight-holder-50348545/)
+
+<img src="./Images/paerlband-tealight-holder.png" width="400" alt="Paerlband tealight holder">
+
+---
