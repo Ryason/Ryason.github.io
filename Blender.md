@@ -15,7 +15,7 @@ I like to practice creating models by modelling real world products. Usually fro
 
 ---
 
-## [Arkelstorp coffee table black](https://www.ikea.com/gb/en/p/adde-chair-black-90214285/)
+## [Arkelstorp coffee table black](https://www.ikea.com/gb/en/p/arkelstorp-coffee-table-black-30260807/)
 
 <img src="./Images/arkelstorp-coffee-table-black.png" width="400" alt="Arkelstorp coffee table black">
 
@@ -27,7 +27,7 @@ I like to practice creating models by modelling real world products. Usually fro
 
 ---
 
-## [Adde chair black](https://www.ikea.com/gb/en/p/ravaror-shelving-unit-on-castors-oak-veneer-20454504/)
+## [Adde chair black](https://www.ikea.com/gb/en/p/adde-chair-black-90214285/)
 
 <img src="./Images/adde-chair-black.png" width="400" alt="Adde chair blacks">
 
