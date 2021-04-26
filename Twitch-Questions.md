@@ -32,6 +32,7 @@ Tool that allows twitch chat to vote on questions
 - The bot will post a message in chat once the allowed voting time has passed, if auto post results is enabled
 
 
+
 ---
 ## [Home](./)
 ---
