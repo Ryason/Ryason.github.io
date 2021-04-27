@@ -21,5 +21,8 @@ I like to practice creating models by modelling real world products. Usually fro
 
 | [Adde chair black](https://www.ikea.com/gb/en/p/adde-chair-black-90214285/) | [Paerlband tealight holder](https://www.ikea.com/gb/en/p/paerlband-tealight-holder-50348545/) | 
 | ---- | ---- |
-| <img src="./Images/adde-chair-black.png" width="400" alt="Adde chair blacks"> | <img src="./Images/paerlband-tealight-holder.png" width="400" alt="Paerlband tealight holder"> |
+| <img src="./Images/adde-chair-black.png" width="400" alt="Adde chair blacks"> | <img src="./Images/paerlband-tealight-holder.png" width="400" alt="Paerlband tealight holder"> | 
 
+| [Ikornnes table mirror](https://www.ikea.com/gb/en/p/ikornnes-table-mirror-ash-00306920/) | [Søborg wood chair](https://www.fredericia.com/products/by-designer-b%C3%B8rge-mogensen/s%C3%B8borg-wood-base-1.aspx?PID=63&catid=6219) | 
+| ---- | ---- |
+| <img src="./Images/ikornnes-table-mirror.png" width="400" alt="Ikornnes table mirror"> | <img src="./Images/søborg-wood-chair.png" width="400" alt="Søborg wood chair"> |
