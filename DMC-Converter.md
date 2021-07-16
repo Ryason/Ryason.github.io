@@ -1,16 +1,24 @@
 ---
+
 layout: default
 title: DMC Image Converter
 description: Information Page
+
 ---
+
 ## [Home](./)
+
 ---
 
 ### [Latest Release](https://github.com/Ryason/DMC-Image-Converter/releases/tag/v0.06)
+
 ---
+
 ### About
 DMC Image Converter is a tool used to create cross stitch patterns from images.
+
 ---
+
 <img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/DisplayImage.PNG?raw=true" alt="Screenshot">
 
 ### Current Features
@@ -25,6 +33,8 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Basic PDF export (still in development)
 - Save and load a conversion, along with marked stitches.
 
+
+
 ---
 
 ### Currently Working On
@@ -34,6 +44,8 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Ability to draw your own pattern, or edit a conversion, using any DMC colour the user wants to (paint).
 - Figuring out the best way to save the conversion to either an image or pdf, for use away from the program.
 - Re-arranging the ui and improving the overall look.
+
+
 
 ---
 
@@ -47,6 +59,8 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Pressing the convert button will start the image conversion and will result in the pattern being displayed on a large grid.
 - You can right click any grid cell to mark it red when you have stitched it (currently can't unmark).
 - Using the Save and Load buttons, you can save a pattern for loading if you need to close the program.
+
+
 
 ---
 
@@ -84,5 +98,7 @@ You also have to be cautious of setting the value too high. As doing so can resu
 - Ability to save a converted iamage pattern to pdf in order to print it out.
 - Update button that links to this project's repo, so users can get the latest version. (Could store version number in code and check against current release version number. Then alert if users exe is not the latest)
 - Option to paint your own pattern using a palette selector and drawing(clicking) directly on the grid.
+
+
 
 ## [Home](./)
