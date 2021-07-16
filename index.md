@@ -10,7 +10,7 @@ description: Information Page
 
 | Name | Version | Info | 
 | ---- | ------- | ---- |
-| DMC Image Converter | 0.05 | [Link](./DMC-Converter.md) | 
+| DMC Image Converter | 0.06 | [Link](./DMC-Converter.md) | 
 | Twitch Questions | 0.03 | [Link](./Twitch-Questions.html)|
 
 ---
