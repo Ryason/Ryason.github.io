@@ -24,6 +24,7 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - [Dithering](https://en.wikipedia.org/wiki/Dither) (reduces colour banding caused by a reduced colour palette)
 - Basic PDF export (still in development)
 - Save and load a conversion, along with marked stitches.
+
 ---
 
 ### Currently Working On
@@ -33,6 +34,7 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Ability to draw your own pattern, or edit a conversion, using any DMC colour the user wants to (paint).
 - Figuring out the best way to save the conversion to either an image or pdf, for use away from the program.
 - Re-arranging the ui and improving the overall look.
+
 ---
 
 ### How To Use
@@ -45,6 +47,7 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Pressing the convert button will start the image conversion and will result in the pattern being displayed on a large grid.
 - You can right click any grid cell to mark it red when you have stitched it (currently can't unmark).
 - Using the Save and Load buttons, you can save a pattern for loading if you need to close the program.
+
 ---
 
 ### About colour matching
