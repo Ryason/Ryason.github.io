@@ -11,7 +11,7 @@ description: Information Page
 ### About
 DMC Image Converter is a tool used to create cross stitch patterns from images.
 ---
-<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/DisplayImage.PNG" alt="Screenshot">
+<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/DisplayImage.PNG?raw=true" alt="Screenshot">
 
 ### Current Features
 
@@ -59,11 +59,11 @@ The following figures show how the colour uniqueness of the auto matched thread 
 
 <pre>Uniqueness of 1                                                 Uniqueness of 5</pre>
 
-<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness1.PNG" width="380" alt="Uniqueness of 1"> <img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness5.PNG" width="380" alt="Uniqueness of 5">
+<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness1.PNG?raw=true" width="380" alt="Uniqueness of 1"> <img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness5.PNG?raw=true" width="380" alt="Uniqueness of 5">
 
 <pre>Uniqueness of 9                                                 Uniqueness of 14</pre>
 
-<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness9.PNG" width="380" alt="Uniqueness of 9"> <img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness14.PNG" width="380" alt="Uniqueness of 14">
+<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness9.PNG?raw=true" width="380" alt="Uniqueness of 9"> <img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/uniqueness14.PNG?raw=true" width="380" alt="Uniqueness of 14">
 
 As shown, a default setting of 1 does not match some of the colours that only appear in small amounts. However, these colours that don't appear much are actually quite important in getting a decent conversion. As without them you lose a lot of the look that the original image had.
 
