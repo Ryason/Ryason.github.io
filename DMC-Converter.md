@@ -12,7 +12,9 @@ description: Information Page
 DMC Image Converter is a tool used to create cross stitch patterns from images.
 ---
 <img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/DisplayImage.PNG" alt="Screenshot">
+
 ### Current Features
+
 - Load an image and have it converted into a pattern for cross stitching with DMC floss.
 - Automatic selection of best DMC threads to use, as well as user specified.
 - Resize a loaded image to a set width.
@@ -23,14 +25,18 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - Basic PDF export (still in development)
 - Save and load a conversion, along with marked stitches.
 ---
+
 ### Currently Working On
+
 - Auto Save
 - Load/save feature. Allowing the user to make a conversion, save it, and then re-load it the next time the launch the program. Without having to convert it again.
 - Ability to draw your own pattern, or edit a conversion, using any DMC colour the user wants to (paint).
 - Figuring out the best way to save the conversion to either an image or pdf, for use away from the program.
 - Re-arranging the ui and improving the overall look.
 ---
+
 ### How To Use
+
 - Load an image into the application by clicking the Load Image button.
 - Controll the size of your cross stich pattern by setting the width, with the width controll box.
 - Select from the list of DMC values, which floss' you would like to use with your pattern.
@@ -40,7 +46,9 @@ DMC Image Converter is a tool used to create cross stitch patterns from images.
 - You can right click any grid cell to mark it red when you have stitched it (currently can't unmark).
 - Using the Save and Load buttons, you can save a pattern for loading if you need to close the program.
 ---
+
 ### About colour matching
+
 The auto match colour feature gives the ability to generate a palette of DMC thread colours using the colours that make up the original image.
 
 When using this you must trial different values of "colour uniqueness". This value determines how similar the auto matched colours are allowed to be. The larger the value, the more unique the colour palette becomes.
