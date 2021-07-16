@@ -11,7 +11,7 @@ description: Information Page
 ### About
 DMC Image Converter is a tool used to create cross stitch patterns from images.
 ---
-![Converter Screenshot](https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/DisplayImage.PNG)
+<img src="https://github.com/Ryason/DMC-Image-Converter/blob/master/Images/DisplayImage.PNG" alt="Screenshot">
 ### Current Features
 - Load an image and have it converted into a pattern for cross stitching with DMC floss.
 - Automatic selection of best DMC threads to use, as well as user specified.
