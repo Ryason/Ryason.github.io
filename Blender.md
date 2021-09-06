@@ -9,9 +9,10 @@ description: Information Page
 # 3D Models
 ---
 
-The following images are renders of models I have created using blender. 
+The following images are renders of models I have created using blender.
 
 I like to practice creating models by modelling real world products. Usually from Ikea, as they're often listed alongside a dimensional drawing.
+I also take part in daily 3D challenges, where 3D renders are created in one day using a given promt.
 
 
 
