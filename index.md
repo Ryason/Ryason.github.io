@@ -19,6 +19,6 @@ description: Information Page
 
 | Name | Info | 
 | ---- | ---- |
-| 3D Models | [Link](./Blender.md) |
+| 3D Models | [Link](https://ryason.github.io/blender/) |
 
 ---
